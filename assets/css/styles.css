@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(25, 25, 73);
+}
+
+
+
+.custom-background-search{
+    background-color: rgb(92, 38, 29);
+    padding-bottom: 30px;
+    margin: auto;
+    justify-content: center;
+    
+    width: 50%;
+}
+
+.Title{
+    color: rgb(17, 226, 198);
+}
